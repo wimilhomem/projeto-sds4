@@ -25,6 +25,7 @@ const DonutChart = () => {
       });
 
 
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   const options = {
